@@ -1,0 +1,6 @@
+@CRUDFormBackend_HostAddress = http://localhost:5115
+
+GET {{CRUDFormBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
